@@ -1,2 +1,2 @@
-# cse310review
-Learn 310
+# Data Structures & Algorithms
+Review key concepts
